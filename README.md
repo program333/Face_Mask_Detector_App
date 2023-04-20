@@ -1,4 +1,4 @@
-# Face Mask Detection App Using AI and Flutter
+# Face Mask Detection App(Live Camera) Using  AI and Flutter
 # Flutter App Screenshots
 <table>
   <tr>
