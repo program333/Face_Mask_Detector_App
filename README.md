@@ -1,4 +1,4 @@
-# Face Mask Detection(Live Camera) Using  An Artificial Intelligence Mobile Application developed by Flutter (Dart)
+# Face Mask Detection(Live Camera) Using  An Artificial Intelligence Mobile Application developed with Flutter (Dart)
 # Flutter App Screenshots
 <table>
   <tr>
